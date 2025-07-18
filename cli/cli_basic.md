@@ -1,0 +1,2 @@
+- ## cli 관련
+  - `mv`, `cp`, `touch`, `mkdir`
