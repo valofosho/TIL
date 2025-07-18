@@ -4,10 +4,10 @@
 ---
 | CATEGORY | URL | Updated Date |
 | -------- | --- | ------------ |
-| AI | url | 2025/07/18|
-| ALGORITHM | url | 2025/07/18|
-| CLI | url | 2025/07/18|
-| GIT | url | 2025/07/18|
-| JAVA | url | 2025/07/18|
-| PYTHON | url | 2025/07/18|
-| SSAFY_TIL | url | 2025/07/18|
+| AI | [url](https://github.com/valofosho/TIL/tree/master/ai) | 2025/07/18|
+| ALGORITHM | [url](https://github.com/valofosho/TIL/tree/master/algorithm) | 2025/07/18|
+| CLI | [url](https://github.com/valofosho/TIL/tree/master/cli) | 2025/07/18|
+| GIT | [url](https://github.com/valofosho/TIL/tree/master/git) | 2025/07/18|
+| JAVA | [url](https://github.com/valofosho/TIL/tree/master/java) | 2025/07/18|
+| PYTHON | [url](https://github.com/valofosho/TIL/tree/master/python) | 2025/07/18|
+| SSAFY_TIL | [url](https://github.com/valofosho/TIL/tree/master/ssafy_til) | 2025/07/18|
